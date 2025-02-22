@@ -71,7 +71,7 @@ export default function Home() {
               transition={{ duration: 0.5, delay: 0.4 }}
               className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto"
             >
-              A Full Stack Developer passionate about creating innovative web
+              Full Stack Developer passionate about creating innovative web
               solutions and exploring AI technologies
             </motion.p>
             <motion.div

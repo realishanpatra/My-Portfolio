@@ -88,6 +88,8 @@ export default function Home() {
               </Button>
               <Button asChild variant="outline" size="lg">
                 <Link href="/contact">Contact Me</Link>
+                <br>
+                </br>
               </Button>
             </motion.div>
           </motion.div>

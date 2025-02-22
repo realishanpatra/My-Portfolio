@@ -35,7 +35,7 @@ export default function Home() {
   return (
     <>
       {/* Hero Section */}
-      <section className="min-h-screen flex items-center justify-center relative overflow-hidden pt-16">
+      <section className="min-h-screen flex items-center justify-center relative overflow-hidden pt-32">
         <div className="absolute inset-0 bg-gradient-to-br from-primary/5 to-secondary/5" />
         <div 
           className="fixed top-0 left-0 w-full h-full pointer-events-none"
@@ -89,11 +89,6 @@ export default function Home() {
               <Button asChild variant="outline" size="lg">
                 <Link href="/contact">Contact Me</Link>
               </Button>
-              <br>
-
-
-
-              </br>
             </motion.div>
           </motion.div>
         </div>
